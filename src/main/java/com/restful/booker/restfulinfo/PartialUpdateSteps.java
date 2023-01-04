@@ -10,9 +10,7 @@ import net.thucydides.core.annotations.Steps;
 
 public class PartialUpdateSteps {
 
-   @Steps
-   PartialUpdateSteps partialUpdateSteps;
-
+  
     @Step("Update the user information and verify the updated information")
     public ValidatableResponse partialUpdateBooking(int bookingID, String firstname, String lastname) {
         PartialUpdatePojo partialUpdatePojo = new PartialUpdatePojo();
