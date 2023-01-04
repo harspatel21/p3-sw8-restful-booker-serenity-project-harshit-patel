@@ -19,9 +19,7 @@ public class BookingCURDTestWithSteps extends TestBase {
     static String lastname = "Ram";
     static int totalprice = 288;
     static boolean depositpaid = true;
-    //    static Object checkin =  2023-01-02;
-//    static Object checkout =  2023-01-31;
-    static HashMap<Object, Object> bookingdates;
+    
     static String additionalneeds = "Breakfast";
     static int bookingID;
 
