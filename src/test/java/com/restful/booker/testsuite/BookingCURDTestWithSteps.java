@@ -72,10 +72,6 @@ public class BookingCURDTestWithSteps extends TestBase {
         firstname = firstname + "_updated";
         lastname = lastname + "_updated";
 
-        HashMap<Object, Object> bookingDatesMap = new HashMap<>();
-        bookingDatesMap.put("checkin", "2023-01-01");
-        bookingDatesMap.put("checkout", "2024-01-01");
-
         ValidatableResponse response = partialUpdateSteps.partialUpdateBooking(bookingID, firstname, lastname);
         response.log().all().statusCode(200);
 
