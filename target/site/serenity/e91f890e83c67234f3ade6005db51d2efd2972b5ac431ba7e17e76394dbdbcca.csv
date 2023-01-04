@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CURD test with steps","This will create a booking","SUCCESS","2023-01-04T21:27:23.070Z[Europe/London]","0.0","9.0"
+"Booking CURD test with steps","Verify if the user was added to the application","SUCCESS","2023-01-04T21:27:32.142Z[Europe/London]","0.0","0.64"
+"Booking CURD test with steps","create token","SUCCESS","2023-01-04T21:27:34.228Z[Europe/London]","0.0","0.61"

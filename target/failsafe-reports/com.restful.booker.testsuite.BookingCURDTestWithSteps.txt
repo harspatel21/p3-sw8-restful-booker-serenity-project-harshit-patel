@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.restful.booker.testsuite.BookingCURDTestWithSteps
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 13.612 sec <<< FAILURE! - in com.restful.booker.testsuite.BookingCURDTestWithSteps
+test003(com.restful.booker.testsuite.BookingCURDTestWithSteps)  Time elapsed: 0.61 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.testsuite.BookingCURDTestWithSteps.test003(BookingCURDTestWithSteps.java:75)
+
+test004(com.restful.booker.testsuite.BookingCURDTestWithSteps)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.testsuite.BookingCURDTestWithSteps.test004(BookingCURDTestWithSteps.java:89)
+
+test005(com.restful.booker.testsuite.BookingCURDTestWithSteps)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.testsuite.BookingCURDTestWithSteps.test005(BookingCURDTestWithSteps.java:98)
+
+test006(com.restful.booker.testsuite.BookingCURDTestWithSteps)  Time elapsed: 0.549 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.testsuite.BookingCURDTestWithSteps.test006(BookingCURDTestWithSteps.java:105)
+

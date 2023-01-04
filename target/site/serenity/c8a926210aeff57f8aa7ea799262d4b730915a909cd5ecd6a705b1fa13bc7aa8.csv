@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CURD test with steps","This will update a booking","ERROR","2023-01-04T21:27:32.786Z[Europe/London]","0.0","0.62"
+"Booking CURD test with steps","This will update a partial booking ","ERROR","2023-01-04T21:27:33.650Z[Europe/London]","0.0","0.01"
+"Booking CURD test with steps","Verify if the booking  was updated partially","ERROR","2023-01-04T21:27:33.663Z[Europe/London]","0.0","0.01"
+"Booking CURD test with steps","This will delete booking and verify booking is deleted","ERROR","2023-01-04T21:27:33.673Z[Europe/London]","0.0","0.55"
